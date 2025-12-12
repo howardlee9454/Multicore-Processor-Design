@@ -8,8 +8,11 @@ This repository contains a dual-core RISC-V processor implemented in synthesizab
 Single Cycle Structure:
 System
 ----------CPU1-----
+
 |                  |
-|                  |------datapath------|------register file
+
+|                  |------datapath------
+                                        |------register file
                                         |------control unit
                                         |------request unit
                                         |------alu
