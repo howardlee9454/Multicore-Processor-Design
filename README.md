@@ -16,3 +16,7 @@ Some key elements implemented:
 3, Caches - Implemented I-Cache and D-Cache to decrease long memory access time
 
 4, Memory Control(Bus Controller) - For dual core design, implemented MSI protocol with the addition of memory control unit, also made changes in Dcache and datapath
+
+Assembly files created mainly for testing design functionality, for dual core, wrote palgorithm.asm with locks to verify LR-SC implementation in dual core design
+
+
