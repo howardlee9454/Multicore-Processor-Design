@@ -1,11 +1,4 @@
-#----------------------------------------------------------
-# RISC-V Assembly
-#----------------------------------------------------------
-#------------------------------------------
-# Originally Test and Set example by Eric Villasenor
-# Modified to be LL and SC example by Yue Du
-# Modified for RISC-V by Zach Lagpacan
-#------------------------------------------
+
 
 #----------------------------------------------------------
 # Core 1 Init
